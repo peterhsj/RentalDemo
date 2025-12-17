@@ -1,0 +1,1 @@
+import{_ as o,c as t,d as s,o as c}from"./index-BZVKDLNc.js";const n={},r={class:"home-view"};function a(_,e){return c(),t("div",r,[...e[0]||(e[0]=[s("h1",null,"Welcome to the Home View",-1)])])}const l=o(n,[["render",a]]);export{l as default};
