@@ -1,1 +1,0 @@
-import{_ as o}from"./index-B3zkBngv.js";import{ac as t,v as r,a7 as s}from"./vue-core-CsbKmrRr.js";import"./vuetify-CHkSyw28.js";import"./date-DE_Uv9Lq.js";const c={},n={class:"home-view"};function a(m,e){return s(),t("div",n,[...e[0]||(e[0]=[r("h1",null,"Welcome to the Home View",-1)])])}const f=o(c,[["render",a]]);export{f as default};
