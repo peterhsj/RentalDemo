@@ -1,0 +1,1 @@
+import{b as o}from"./index-DDIN51dl.js";import{l as t,a9 as a,a7 as r,aa as n,ab as s,n as p}from"./vue-core-Dn7k-s0w.js";import"./date-ui-TtEhfnKH.js";import"./vuetify-ui-BaJYtIUq.js";const d=t({__name:"noFooter",setup(_){return(c,m)=>{const e=r("router-view");return n(),a(o,null,{default:s(()=>[p(e)]),_:1})}}});export{d as default};
